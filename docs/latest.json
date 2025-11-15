@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkName": "kinolaz-1.1.apk",
-  "sha256": "dc25e21f85e88eb90936c12b38712dda81af501313b8a3d68b5647abc0bb7a86"
+  "versionCode": 1,
+  "versionName": "0.0.1",
+  "apkUrl": "https://lazar-code.github.io/KinoLaz-Public/kinolaz-0.0.1.apk",
+  "sha256": "311c1dd246c8ca2d76b7ac4fa27c9aa403f9ffc6b38e77186d3a2b6649cab3ab"
 }
