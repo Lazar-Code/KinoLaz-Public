@@ -1,4 +1,11 @@
 {
   "releases": [
+    {
+      "versionCode": 29,
+      "versionName": "1.0.29",
+      "releaseNotes": [
+        "Change order of pipeline publishing steps for release"
+      ]
+    }
   ]
 }
