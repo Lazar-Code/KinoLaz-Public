@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionCode": 30,
+      "versionName": "1.0.30",
+      "releaseNotes": [
+        "Map cast",
+        "Updated api endpoints",
+        "Added certificate to other http clients"
+      ]
+    },
+    {
       "versionCode": 29,
       "versionName": "1.0.29",
       "releaseNotes": [
